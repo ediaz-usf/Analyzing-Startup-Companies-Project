@@ -1,7 +1,7 @@
-## Analyzing-Startup-Companies-Project
+# Analyzing-Startup-Companies-Project
 
 
-# Business Problem and Objective
+## Business Problem and Objective
 
 The startup ecosystem is a dynamic and rapidly evolving space, with certain industries and regions attracting more investment than others. This project aims to analyze startup growth and investment trends to identify the industries that receive the most funding, the countries with the fastest-growing startups, and the relationship between funding rounds and growth rates.
 
@@ -9,7 +9,7 @@ This project is particularly interesting to me because it gives me insight into 
 
 
 
-# Data Source and Preparation
+## Data Source and Preparation
 
 Startup Growth and Investment Data, provided by Kaggle. It contains a Startup’s (Industry, Funding Rounds, Investment Amount, Valuation (USD), Number of Investors, Country, Year founded, and Growth Rate (%)).
 
@@ -19,7 +19,7 @@ There were no missing values, and all data types were appropriate for the column
 
 This newly cleaned dataset ensures that the analysis is accurate, reliable, and free from biases caused by missing or inconsistent data. By removing errors and standardizing values, the dataset becomes more suitable for identifying meaningful trends in startup growth and investment. This improves the quality of insights, allowing for better decision-making regarding industry opportunities and investment strategies.
 
-# Diagnostic & Predictive Analytics
+## Diagnostic & Predictive Analytics
 
 Chart 1: Funding Rounds per Industry
 
@@ -61,7 +61,7 @@ Insights: A 10% growth rate increase would drive nearly all industries’ valuat
 
 
 
-# Dashboard Overview
+## Dashboard Overview
 
 Dashboard 1:
 
@@ -79,7 +79,7 @@ The bottom chart simulates a 5% decrease in growth rate across industries and it
 
  
 
-# Project Conclusions
+## Project Conclusions
 
 Key Findings
 
