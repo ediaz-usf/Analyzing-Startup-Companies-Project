@@ -1,15 +1,6 @@
 ## Analyzing-Startup-Companies-Project
 
-Ernesto Diaz
-
-Analyzing Startup Companies
-
-CAI3801
-
-Spring 2025
-
 
-
 # Business Problem and Objective
 
 The startup ecosystem is a dynamic and rapidly evolving space, with certain industries and regions attracting more investment than others. This project aims to analyze startup growth and investment trends to identify the industries that receive the most funding, the countries with the fastest-growing startups, and the relationship between funding rounds and growth rates.
